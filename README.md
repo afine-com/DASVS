@@ -26,9 +26,9 @@ DASVS was created by the AFINE Team.
 
 The latest stable version is version 1.0.0 (dated November 2025), which can be found:
 
-- [Desktop Application Security Verification Standard 1.0.0 English (PDF)](https://github.com/afinepl/DASVS/raw/main/DASVS_v1.0.0_en.pdf)
-- [Desktop Application Security Verification Standard 1.0.0 English (docx)](https://github.com/afinepl/DASVS/releases/download/v1.0.0/DASVS.v1.0.0.docx)
-- [Desktop Application Security Verification Standard 1.0.0 (GitHub Branch)](https://github.com/afinepl/DASVS)
+- [Desktop Application Security Verification Standard 1.0.0 English (PDF)](https://github.com/afine-com/DASVS/releases/download/v1.0.0/DASVS_v1.0.0_en.pdf)
+- [Desktop Application Security Verification Standard 1.0.0 English (docx)](https://github.com/afine-com/DASVS/releases/download/v1.0.0/DASVS.v1.0.0_en.docx)
+- [Desktop Application Security Verification Standard 1.0.0 (GitHub Branch)](https://github.com/afine-com/DASVS)
 
 The master branch of this repository will always be the "bleeding edge version" which might have in-progress changes or other edits open. The next release target will be a minor update, version 1.1. For details on the DASVS release strategy, see the release strategy section of [CONTRIBUTING.md](./CONTRIBUTING.md).
 
