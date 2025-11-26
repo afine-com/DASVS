@@ -18,7 +18,7 @@ The primary aim of the DASVS Project is to normalize the range in the coverage a
 
 The DASVS project released v1.0.0 during November 2025 which represents the first comprehensive security standard specifically designed for desktop applications.
 
-You can see the static version of this release on the [v1.0.0 branch](https://github.com/AFINE-Company/DASVS/tree/v1.0.0) within the 1.0 folder. The master branch continues to be the "bleeding edge" and will contain any incremental changes made following the v1.0.0 release.
+You can see the static version of this release on the [v1.0.0 branch](https://github.com/afine-com/DASVS/tree/v1.0.0) within the 1.0 folder. The master branch continues to be the "bleeding edge" and will contain any incremental changes made following the v1.0.0 release.
 
 ## Release Strategy
 
@@ -60,7 +60,7 @@ If you are interested in creating a translation, here are some pointers for how 
 1. Please first of all search the repository to see if there is already a translation for your proposed language.
 2. If the language you are interested in appears, it would be great if you could reach out to the translator to see if you can help them.
    - Often there is work to do in creating markdown files or updating the translation to keep it up to date with latest changes.
-3. We would request that you base your translation on the `1.0/en` folder in the [v1.0.0 branch](https://github.com/AFINE-Company/DASVS/tree/v1.0.0) as this is now static at the 1.0.0 version.
+3. We would request that you base your translation on the `1.0/en` folder in the [v1.0.0 branch](https://github.com/afine-com/DASVS/tree/v1.0.0) as this is now static at the 1.0.0 version.
 4. In order to start a translation, please start by forking the DASVS repository.
 5. Take a copy of the `/en` folder and rename it to the 2 character language code which will be used for the translation.
 6. You can then edit the markdown files to include your translation rather than the original English.
