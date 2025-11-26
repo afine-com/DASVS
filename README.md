@@ -128,7 +128,7 @@ For questions, feedback, or business inquiries:
 
 - **Email**: [afine@afine.com](mailto:afine@afine.com)
 - **Website**: [www.afine.com](https://www.afine.com)
-- **GitHub Issues**: [Submit an issue](https://github.com/afinepl/DASVS/issues)
+- **GitHub Issues**: [Submit an issue](https://github.com/afine-com/DASVS/issues)
 
 ---
 
